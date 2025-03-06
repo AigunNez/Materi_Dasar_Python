@@ -3,7 +3,7 @@
 Repositori ini berisi materi pembelajaran dasar bahasa pemrograman Python. Materi-materi ini disusun untuk membantu pemula memahami konsep-konsep fundamental dalam Python atau para pengajar seperti asisten dosen maupun dosen untuk mengajar.
 
 ## Daftar Isi
-1. **Variabel dan Tipe Data**
+1. **Tipe Data dan Operator**
 2. **Data Collections**
 3. **Conditional dan Looping**
 4. **Function**
